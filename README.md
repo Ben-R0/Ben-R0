@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm Ben, a computer engineering student based in Ohio.
+I recently changed majors from aerospace engineering after discovering a passion for computer architecture and design.
+
+My primary interests are in graphics or rendering pipelines and AI development.
+
+My main language is C++.
+
+
 <!--
 **Ben-R0/Ben-R0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
